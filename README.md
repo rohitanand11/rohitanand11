@@ -38,9 +38,8 @@
 
 ---
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitanand11&hide=contribs,prs,issues" />
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitanand11&hide=kotlin" />
-![Alt Text](https://raw.githubusercontent.com/rohitanand11/rohitanand11/master/assets/gifs/typing.gif)
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitanand11&hide=contribs,prs,issues" />
+
 
 [Tally_website]: https://tallysolutions.com/
 [linkedin]: https://www.linkedin.com/in/rohitanand11/
