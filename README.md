@@ -46,7 +46,6 @@
 [instagram]: https://www.instagram.com/ro_hit_anand
 
 <br />
-<br />
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
