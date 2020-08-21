@@ -49,6 +49,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Rest operator in JavaScript. (JS interview preparation #3)](https://www.youtube.com/watch?v=oGltgxdljKk)
 - [Spread operator in JavaScript. ( JS interview preparation #2)](https://www.youtube.com/watch?v=cDMbaCbao-Q)
 - [Shallow copy vs deep copy in JavaScript (dealing with reference types)](https://www.youtube.com/watch?v=TxYn5yOli1k)
 <!-- YOUTUBE:END -->
