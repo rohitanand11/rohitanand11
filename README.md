@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer!
 
-- 🔭 I’m currently working for Tally Solutions [Tally][Tally_website].
+- 🔭 I’m currently working for 91 social.
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Master React and turn some bricks of JS.
 - ⚡ About me: As a developer i love exploring and learning new things.
